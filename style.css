@@ -1,0 +1,27 @@
+/* Mengubah latar belakang body dan navbar menjadi hitam */
+body, .bg-dark {
+    background-color: #212529; /* kode warna hitam */
+    color: #ffffff; /* warna teks putih untuk kontras */
+}
+
+/* Mengubah warna teks link di navbar */
+.navbar-nav .nav-link {
+    color: #ffffff !important; /* warna teks putih */
+}
+
+.section {
+    padding-top: 3rem;
+}
+
+
+.jumbotron {
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    background-color:#f8f8ff
+}
+
+#projects {
+    background-color:#f8f8ff
+}
+
+
